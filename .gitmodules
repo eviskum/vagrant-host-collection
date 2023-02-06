@@ -1,0 +1,15 @@
+[submodule "ns"]
+	path = ns
+	url = https://github.com/eviskum/Vagrant-ns.git
+[submodule "openhab"]
+	path = openhab
+	url = https://github.com/eviskum/Vagrant-openhab.git
+[submodule "pihole"]
+	path = pihole
+	url = https://github.com/eviskum/Vagrant-pihole.git
+[submodule "plex"]
+	path = plex
+	url = https://github.com/eviskum/Vagrant-plex.git
+[submodule "unifi"]
+	path = unifi
+	url = https://github.com/eviskum/Vagrant-unifi.git
