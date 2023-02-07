@@ -13,3 +13,6 @@
 [submodule "unifi"]
 	path = unifi
 	url = https://github.com/eviskum/Vagrant-unifi.git
+[submodule "docker1"]
+	path = docker1
+	url = https://github.com/eviskum/Vagrant-docker1.git
